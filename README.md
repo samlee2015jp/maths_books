@@ -20,3 +20,15 @@ https://www.khanacademy.org/math/calculus-1
 http://www-math.mit.edu/~djk/calculus_beginners/
 
 https://www.geeksforgeeks.org/mathematics-limits-continuity-differentiability/
+
+这里推荐一些国外的教材：
+
+【入门】Calculus Early Transcendentals 8th edition - James Stewart
+
+【入门】Thomas' Calculus Early Transcendentals 14th Edition - Joel R. Hass
+
+【中等】Advanced Calculus- Frederick S. Woods
+
+【高级】Principles of Mathematical Analysis- Walter Rudin
+
+【高级】Advanced Calculus- Harvard Department of Mathematics(lecture notes of MATH55)
