@@ -32,3 +32,9 @@ https://www.geeksforgeeks.org/mathematics-limits-continuity-differentiability/
 【高级】Principles of Mathematical Analysis- Walter Rudin
 
 【高级】Advanced Calculus- Harvard Department of Mathematics(lecture notes of MATH55)
+
+
+
+https://booktree.ng/download/numerical-methods-by-anne-greenbaum-pdf/
+
+
