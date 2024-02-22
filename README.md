@@ -202,4 +202,5 @@ https://www.geeksforgeeks.org/mathematics-limits-continuity-differentiability/
 
 https://booktree.ng/download/numerical-methods-by-anne-greenbaum-pdf/
 
+https://isidore.co/calibre#panel=book_list
 
