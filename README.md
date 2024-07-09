@@ -1,5 +1,7 @@
 # Maths
 
+
+
 Here are the books that showed up in this video(in order) on amazon.
 
 Discrete Mathematics with Applications by Susanna Epp
