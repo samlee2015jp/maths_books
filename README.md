@@ -1,5 +1,7 @@
 # Maths
 
+https://www.gutenberg.org/ebooks/bookshelf/102
+
 https://math.libretexts.org
 
 Here are the books that showed up in this video(in order) on amazon.
